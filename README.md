@@ -14,7 +14,7 @@ endpoint para hacer login que nos devuelve el token de acceso a los servicios de
 
 ![image](https://user-images.githubusercontent.com/75379137/145744855-e663df8c-c5e7-4ea5-a65b-6b7b9f341c34.png)
 
-para tener acceso debemos a los endpoints debemos enviar el token en los headers asi
+para tener acceso a los endpoints debemos enviar el token en los headers asi
 
 ![image](https://user-images.githubusercontent.com/75379137/145745173-78ad8704-7cea-4045-b55f-cbc0deeacd66.png)
 
